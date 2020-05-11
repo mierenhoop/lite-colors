@@ -11,6 +11,7 @@ embedded in the table.*
 
 Theme | Preview
 ------|-----------------------------------------
+[`ayu_dark`](colors/ayu_dark.lua?raw=1) | ![ayu_dark_preview]()
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](https://user-images.githubusercontent.com/3920290/81507632-9ead7780-92f6-11ea-85e9-7cfb9ffa97ae.png)
 [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1) | ![gruvbox_dark_preview](https://user-images.githubusercontent.com/57670615/81137677-94bdfa00-8f2d-11ea-9224-3d70a5ec3101.png)
 [`monodark`](colors/monodark.lua?raw=1) | ![monodark_preview](https://user-images.githubusercontent.com/3920290/80304201-62353400-87ac-11ea-9b13-9ca1b9db0f99.png)
